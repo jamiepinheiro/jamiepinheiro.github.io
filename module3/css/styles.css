@@ -1,0 +1,51 @@
+body{
+	background-color: #34495e;
+}
+
+#chicken{
+	background-color: #1abc9c;
+}
+
+#beef{
+	background-color: #3498db;
+}
+
+#sushi{
+	background-color: #e67e22;
+}
+
+.navbar-default{
+	background-color: #bdc3c7;
+	border: none;
+}
+
+.navbar-collapse{
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color: #95a5a6;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #ecf0f1;
+}
+
+#main-text{
+	background-color: #2c3e50;
+}
+
+.title{
+	color: #3498db;
+}
+
+.body-text:nth-child(odd) {
+    color: #ecf0f1
+}
+
+
+.body-text:nth-child(even) {
+    color: #bdc3c7
+}
+
+#1abc9c
