@@ -48,4 +48,4 @@ body{
     color: #bdc3c7
 }
 
-#1abc9c
+.nav { overflow-y: hidden !important }
