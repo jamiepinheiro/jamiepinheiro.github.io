@@ -33,7 +33,6 @@
 		};
 		search.removeItem = function (index) {
 	    	search.found.splice(index, 1);
-			console.log("hello");
 	    };
 
 	}
