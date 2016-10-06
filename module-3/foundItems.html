@@ -1,6 +1,8 @@
-<ol>
-	<li ng-repeat="item in search.found">
-		<h>{{item.name}} {{item.short_name}}</h>
-		<button ng-click="search.removeItem($index)">X</button>
+<ul>
+	<li ng-if="search.found[0] !== -1 && search.found.length !== 0" ng-repeat="item in search.found">
+		<h>{{item.name}}, {{item.short_name}}, {{item.description}}</h>
+		<button class="btn  btn-danger btn-sm" ng-click="search.removeItem($index)">Don't want this one!</button>
 	</li>
-</ol>
+
+	<h2 ng-if="search.found[0] !== -1 && search.found.length === 0">Not Found</h2>
+</ul>

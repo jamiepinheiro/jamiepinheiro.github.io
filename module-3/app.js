@@ -22,12 +22,13 @@
 	function NarrowItDownController(MenuSearchService){
 		var search = this;
 		search.term = "";
-		search.found = [];
+		search.found = [-1];
 
 		search.getItems = function(term){
 			var promise = MenuSearchService.getMatchedMenuItems(search.term);
 
 			promise.then(function (responce){
+				search.found = [];
 				search.found = responce;
 			});
 		};
@@ -54,6 +55,9 @@
 					if(result.data.menu_items[i].name.toLowerCase().indexOf(term.toLowerCase()) !== -1){
 						foundItems.push(result.data.menu_items[i]);
 					}
+				}
+				if(foundItems.length === 0 || term === ""){
+					foundItems = [];
 				}
 				return foundItems;
 			})
