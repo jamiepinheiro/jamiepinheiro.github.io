@@ -1,0 +1,6 @@
+<ol>
+	<li ng-repeat="item in search.found">
+		<h>{{item.name}} {{item.short_name}}</h>
+		<button ng-click="search.removeItem($index)">X</button>
+	</li>
+</ol>
