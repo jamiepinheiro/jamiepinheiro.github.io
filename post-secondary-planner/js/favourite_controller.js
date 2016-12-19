@@ -30,6 +30,37 @@ function loadFavourites(){
 	updateViews();
 }
 
+//based upon code from http://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side
+//download favourites into csv
+function downloadFavourites(){
+	//CODE FROM WEBSITE START*
+	var content = [["Ranking Score", "Program Name", "University", "Outside Learning", "Grades Requirements", "Admission Requirements", "OUAC Code"]];
+	for (var i = 0; i < selectedPrograms.length; i++) {
+		content.push([selectedPrograms[i].rankingScore, selectedPrograms[i].title, selectedPrograms[i].university, selectedPrograms[i].outsideLearning, selectedPrograms[i].gradeRange, selectedPrograms[i].requirements.replace(/<\/?[^>]+(>|$)/g, ""), selectedPrograms[i].ouac]);
+	}
+	var finalVal = '';
+	for (var i = 0; i < content.length; i++) {
+	    var value = content[i];
+	    for (var j = 0; j < value.length; j++) {
+	        var innerValue = value[j].toString();
+	        var result = innerValue.replace(/"/g, '""');
+	        if (result.search(/("|,|\n)/g) >= 0){
+	            result = '"' + result + '"';
+			}
+	        if (j > 0){
+	            finalVal += ',';
+			}
+	        finalVal += result;
+	    }
+	    finalVal += '\n';
+	}
+	var pom = document.createElement('a');
+	pom.setAttribute('href', 'data:text/csv;charset=utf-8,' + encodeURIComponent(finalVal));
+	pom.setAttribute('download', 'favourites.csv');
+	pom.click();
+	//CODE FROM WEBSITE END*
+}
+
 //toggle favourited value for a particular program
 function favourite(programNumber){
 	//add a new favourite if it is not there
