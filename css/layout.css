@@ -9,7 +9,7 @@
    a. General Styles
    b. Header Styles
    c. About Section
-   d. resume Section
+   d. Resume Section
    e. Portfolio Section
    f. Call To Action Section
    g. Testimonials Section
@@ -232,7 +232,7 @@ ul#nav li.current a { color: #F06000; }
 
 
 /* ------------------------------------------------------------------ */
-/* d. resume Section
+/* d. Resume Section
 /* ------------------------------------------------------------------ */
 
 #resume {
@@ -261,7 +261,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.resume, .work {
+.education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
