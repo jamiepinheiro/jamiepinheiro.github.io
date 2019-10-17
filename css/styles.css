@@ -22,11 +22,6 @@ body{
     opacity: 0.5;
 }
 
-.content{
-    position: relative;
-    z-index: 100;
-}
-
 .background{
     position: absolute;
     top: 0;
