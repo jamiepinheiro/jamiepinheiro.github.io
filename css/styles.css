@@ -17,14 +17,46 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.link:hover{
+.link:hover {
     text-decoration: none;
     opacity: 0.5;
 }
 
-.background{
+.background {
     position: absolute;
     top: 0;
     left: 0;
     z-index: -100;
+    background-color: #20639B;
+}
+
+.background2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+a:link {
+    color: #3CAEA3;
+}
+  
+/* visited link */
+a:visited {
+    color: #3CAEA3;
+}
+  
+/* mouse over link */
+a:hover {
+    color: #3CAEA3;
+    opacity: 0.5;
+}
+
+/* selected link */
+a:active {
+    color: #3CAEA3;
+}
+
+.teal {
+    color: #3CAEA3
 }

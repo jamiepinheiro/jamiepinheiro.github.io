@@ -205,11 +205,11 @@ stats.domElement.style.top = '0px';
 // Init plugin
 $('canvas').constellation({
 	star: {
-		width: 3
+		width: 5
 	},
 	line: {
 		color: 'rgba(255, 255, 255, .2)'
 	},
-	length: (window.innerWidth / 10),
-	radius: (window.innerWidth / 3)
+	length: (window.innerWidth / 15),
+	radius: (window.innerWidth / 10)
 });
