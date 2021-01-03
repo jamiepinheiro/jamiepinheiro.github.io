@@ -15,13 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Jamie Pinheiro
 email: japinhei@uwaterloo.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  TODO jameipinheiro: write the description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jamiepinheiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jamiepinheiro
 twitter_username: jamiepinheiro
 linkedin_username: jamiepinheiro
+google_analytics: UA-152743685-1
 
 # Build settings
 markdown: kramdown
