@@ -1,2 +1,2 @@
-# jamiepinheiro.github.io
+# jamiepinheiro.com
 My personal website.
