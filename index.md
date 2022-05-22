@@ -15,6 +15,7 @@ In my free time, I love to ski, explore new food, lift weights, play/watch baske
 Some achievements/cool stuff I've worked on in no particular order:
  - Built libmphoto - an open source library for muxing motion photos [[+]](https://github.com/googleinterns/libmphoto)
  - Added several optimizations to RAW image ingestion within the LibRaw project [[+]](https://www.libraw.org/news/libraw-0-20-2-Release?page=1)
+ - Helped organize UWaterloo's first energy focused hackathon [[+]](https://uwen.ca/about.html)
  - Developed support for referencing Azure Boards work items from inside GitHub issues [[+]](https://mobile.twitter.com/alexcnichols/status/1118170956860551169)
  - Created a vscode extension to paste text directly from screenshots [[+]](https://marketplace.visualstudio.com/items?itemName=jamiepinheiro.paste-from-screenshot)
  - Wrote a script that syncs Wealthsimple account balances with Lunch Money [[+]](https://lunchmoney.dev/#auto-importers)
