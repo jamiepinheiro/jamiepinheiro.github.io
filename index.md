@@ -14,7 +14,7 @@ In my free time, I love to ski, explore new food, lift weights, play/watch baske
 
 Some achievements/cool stuff I've worked on in no particular order:
 
-- Created a tool to find Cyclic TV Reference Paradoxes [[+]](https://jamiepinheiro.com/cyclic_tv_reference_paradox_finder){:target="_blank"}
+- Created a tool to find Cyclic TV Reference Paradoxes [[+]](https://www.reddit.com/r/dataisbeautiful/comments/v5fa5x/oc_i_built_a_tool_to_visualize_tv_references_and/){:target="_blank"}
 - Built libmphoto - an open source library for muxing motion photos [[+]](https://github.com/googleinterns/libmphoto){:target="_blank"}
 - Added several optimizations to RAW image ingestion within the LibRaw project [[+]](https://www.libraw.org/news/libraw-0-20-2-Release?page=1){:target="_blank"}
 - Helped organize UWaterloo's first energy focused hackathon [[+]](https://uwen.ca/about.html){:target="_blank"}
