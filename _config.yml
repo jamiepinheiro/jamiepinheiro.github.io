@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Jamie Pinheiro"
-description: "A little about myself &#124; I’m a Computer Science student at the University of Waterloo..."
+description: "I’m a Computer Science student at the University of Waterloo..."
 twitter:
   username: jamiepinheiro
   card: summary
