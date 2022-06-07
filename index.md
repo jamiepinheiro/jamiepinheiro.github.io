@@ -4,7 +4,7 @@
 
 layout: home
 title: "A little about myself"
-image: "assets/header.jpeg"
+image: "assets/header.jpg"
 ---
 
 I'm a Computer Science '22 graduate from the [University of Waterloo](https://uwaterloo.ca).
