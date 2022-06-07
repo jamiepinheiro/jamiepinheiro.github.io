@@ -13,7 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jamie Pinheiro
+title: "Jamie Pinheiro"
+description: "A little about myself &#124; I’m a Computer Science student at the University of Waterloo..."
+twitter:
+  username: jamiepinheiro
+  card: summary
 email: japinhei@uwaterloo.ca
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jamiepinheiro.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,6 +34,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
