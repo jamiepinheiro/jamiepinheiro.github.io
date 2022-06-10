@@ -51,6 +51,17 @@
       <span class="username">{{ site.medium_username| escape }}</span></a
     >
   </li>
+  {%- endif -%} {%- if site.vsco_username -%}
+  <li>
+    <a target="_blank" href="https://vsco.co/{{ site.vsco_username| escape }}"
+      ><svg class="svg-icon">
+        <use
+          xlink:href="{{ '/assets/minima-social-icons.svg#flickr' | relative_url }}"
+        ></use>
+      </svg>
+      <span class="username">{{ site.vsco_username | escape }}</span></a
+    >
+  </li>
   {%- endif -%} {%- if site.twitter_username -%}
   <li>
     <a
