@@ -4,7 +4,9 @@
 
 layout: home
 title: "A little about myself"
-image: "https://jamiepinheiro.com/assets/header.jpg"
+image:
+  path: "https://jamiepinheiro.com/assets/header.jpg"
+  alt: "Sunrise in the Grand Canyon taken by Jamie Pinheiro"
 ---
 
 I'm a Computer Science '22 graduate from the [University of Waterloo](https://uwaterloo.ca).

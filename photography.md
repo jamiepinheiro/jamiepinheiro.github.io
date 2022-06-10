@@ -5,7 +5,9 @@
 layout: home
 title: "Photography"
 description: "Some photos I've taken over the years"
-image: "https://jamiepinheiro.com/assets/header2.jpg"
+image:
+  path: "https://jamiepinheiro.com/assets/header2.jpg"
+  alt: "Sunrise in the Grand Canyon taken by Jamie Pinheiro"
 ---
 
 ![Sunset in a canyon taken by Jamie Pinheiro](/assets/photography/0.jpeg)
@@ -17,5 +19,3 @@ image: "https://jamiepinheiro.com/assets/header2.jpg"
 ![Sunrise in the Grand Canyon taken by Jamie Pinheiro](/assets/photography/3.jpeg)
 
 ![Small river with log taken by Jamie Pinheiro](/assets/photography/4.jpeg)
-
-![City view of Reykjavik taken by Jamie Pinheiro](/assets/photography/5.jpeg)
