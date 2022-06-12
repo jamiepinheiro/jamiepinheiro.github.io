@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Instagram"
+title: "Travel"
 image:
   path: "https://jamiepinheiro.com/assets/header3.jpg"
   alt: "Jamie Pinheiro with NYC in the background"
