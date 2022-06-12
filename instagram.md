@@ -1,10 +1,15 @@
-<html>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: "Instagram"
+image:
+  path: "https://jamiepinheiro.com/assets/header3.jpg"
+  alt: "Jamie Pinheiro with NYC in the background"
+---
+
   <head>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="chrome-extension://fleenceagaplaefnklabikkmocalkcpo/assets/fonts/MyFontsWebfontsKit.css"
-    />
     <style>
       html > div ~ div:last-of-type {
         display: none !important;
@@ -332,6 +337,7 @@
         opacity: 1;
       }
     </style>
+
   </head>
   <body _c_t_common="1">
     <div
@@ -354,7 +360,7 @@
           style="border-radius: 0%"
           ><img
             class="behold-image behold-image--loaded"
-            alt=""
+            alt="Jamie Pinheiro sitting on rock"
             height="100px"
             width="100px"
             loading="lazy"
@@ -366,7 +372,7 @@
           style="border-radius: 0%"
           ><img
             class="behold-image behold-image--loaded"
-            alt=""
+            alt="Jamie Pinheiro with NYC in the background"
             height="100px"
             width="100px"
             loading="lazy"
@@ -378,7 +384,7 @@
           style="border-radius: 0%"
           ><img
             class="behold-image behold-image--loaded"
-            alt=""
+            alt="Jamie Pinheiro on ledge"
             height="100px"
             width="100px"
             loading="lazy"
@@ -390,7 +396,7 @@
           style="border-radius: 0%"
           ><img
             class="behold-image behold-image--loaded"
-            alt=""
+            alt="Jamie Pinheiro canoeing"
             height="100px"
             width="100px"
             loading="lazy"
@@ -402,7 +408,7 @@
           style="border-radius: 0%"
           ><img
             class="behold-image behold-image--loaded"
-            alt=""
+            alt="Jamie Pinheiro sitting on ledge"
             height="100px"
             width="100px"
             loading="lazy"
@@ -411,4 +417,3 @@
       </div>
     </div>
   </body>
-</html>
