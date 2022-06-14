@@ -364,7 +364,7 @@ image:
             height="100px"
             width="100px"
             loading="lazy"
-            src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/278519836_673420833917217_8121649238621222980_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=g177HZXkRTEAX87F89T&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AT_b6N4WpDjD7pPDrcRZ0xPDK1cYYa6aEJagJEjfueg_fw&amp;oe=62A7436F" /></a
+            src="/assets/travel/4.jpeg" /></a
         ><a
           class="behold-post behold-post--photo behold-post--loaded"
           href="https://www.instagram.com/p/CYCEemKrSSy/"
@@ -376,7 +376,7 @@ image:
             height="100px"
             width="100px"
             loading="lazy"
-            src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/270238583_1249317242216561_1769552621543242407_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=lwbqo6bSg9EAX_-9-Mb&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AT-aDvIeQ74gDogS_8xNTEl2UNcA3-VFYFdz3WYLziMVQA&amp;oe=62A85B0E" /></a
+            src="/assets/travel/3.jpeg" /></a
         ><a
           class="behold-post behold-post--album behold-post--loaded"
           href="https://www.instagram.com/p/CXByXYnLBvo/"
@@ -388,7 +388,7 @@ image:
             height="100px"
             width="100px"
             loading="lazy"
-            src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/263475783_594364964975577_5997550568928708535_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=0yxg4Ou2TQ4AX9Kk_aZ&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AT8oP4tsDTRlTSKio4TVtJr4vaGYQNhqGtilJRjOvrr2ZQ&amp;oe=62A78D94" /></a
+            src="/assets/travel/2.jpeg" /></a
         ><a
           class="behold-post behold-post--photo behold-post--loaded"
           href="https://www.instagram.com/p/CRfAJLPrt4g/"
@@ -400,7 +400,7 @@ image:
             height="100px"
             width="100px"
             loading="lazy"
-            src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/219328502_324130406047555_2523572923428401359_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=E5faWXyOPKUAX_-AEDC&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AT-x50CSVup_wmtbtuvTpyKsOlYVB3AQl2gGB4bhUtz4SQ&amp;oe=62A724ED" /></a
+            src="/assets/travel/1.jpeg" /></a
         ><a
           class="behold-post behold-post--photo behold-post--loaded"
           href="https://www.instagram.com/p/Bl6HoL9Dt1C/"
@@ -412,7 +412,7 @@ image:
             height="100px"
             width="100px"
             loading="lazy"
-            src="https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/37703690_416798162143943_8842608815103803392_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=b9erhVwMDFgAX8ecJFb&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AT9lTg_9gBqnaKwotQaxBHl47Sv0GML1rM93_5_84GxEOQ&amp;oe=62A77467"
+            src="/assets/travel/0.jpeg"
         /></a>
       </div>
     </div>
