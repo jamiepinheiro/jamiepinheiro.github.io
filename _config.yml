@@ -18,7 +18,7 @@ description: "I’m a Computer Science student at the University of Waterloo..."
 twitter:
   username: jamiepinheiro
   card: summary
-email: japinhei@uwaterloo.ca
+email: me@jamiepinheiro.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jamiepinheiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jamiepinheiro
