@@ -30,6 +30,10 @@ reddit_username: jamiepinheiro
 vsco_username: jamiepinheiro
 google_analytics: UA-152743685-1
 
+header_pages:
+  - photography.md
+  - travel.md
+
 # Build settings
 markdown: kramdown
 theme: minima
