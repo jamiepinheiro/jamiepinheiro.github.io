@@ -10,18 +10,12 @@ image:
   alt: "Jamie Pinheiro with NYC in the background"
 ---
 
-<style>
-td, th, tr {
-   border: none!important;
-   background: white!important;
-   padding: 7px!important;
-}
-table {
-  border: none!important;
-}
-</style>
+[![Jamie Pinheiro sitting on rock in Iceland](/assets/travel/iceland.jpeg)](https://www.instagram.com/p/CcYQmM7rUYl/)
 
-| :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| [![Jamie Pinheiro sitting on rock](/assets/travel/4.jpeg)](https://www.instagram.com/p/CcYQmM7rUYl/) | [![Jamie Pinheiro with NYC in the background](/assets/travel/3.jpeg)](https://www.instagram.com/p/CYCEemKrSSy/) |
-| [![Jamie Pinheiro on ledge](/assets/travel/2.jpeg)](https://www.instagram.com/p/CXByXYnLBvo/) | [![Jamie Pinheiro canoeing](/assets/travel/1.jpeg)](https://www.instagram.com/p/CRfAJLPrt4g/)
-| [![Jamie Pinheiro sitting on ledge](/assets/travel/0.jpeg)](https://www.instagram.com/p/Bl6HoL9Dt1C/)
+[![Jamie Pinheiro in front of cityscape background in NYC](/assets/travel/nyc.jpeg)](https://www.instagram.com/p/CYCEemKrSSy/)
+
+[![Jamie Pinheiro on ledge in Zion National Park](/assets/travel/zion.jpeg)](https://www.instagram.com/p/CXByXYnLBvo/)
+
+[![Jamie Pinheiro canoeing in Banff National Park](/assets/travel/banff.jpeg)](https://www.instagram.com/p/CRfAJLPrt4g/)
+
+[![Jamie Pinheiro sitting on ledge in Mount Rainier National Park](/assets/travel/rainier.jpeg)](https://www.instagram.com/p/Bl6HoL9Dt1C/)
