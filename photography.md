@@ -4,6 +4,7 @@
 
 layout: home
 title: "Photography"
+permalink: "/photography"
 description: "Some photos I've taken over the years"
 image:
   path: "https://jamiepinheiro.com/assets/header2.jpg"
