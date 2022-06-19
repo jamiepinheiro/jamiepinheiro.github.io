@@ -7,7 +7,7 @@ title: "Travel"
 permalink: "/travel"
 description: "Some photos I've taken while traveling"
 image:
-  path: "https://jamiepinheiro.com/assets/header3.jpg"
+  path: "https://jamiepinheiro.com/assets/header3.jpeg"
   alt: "Jamie Pinheiro with NYC in the background"
 ---
 

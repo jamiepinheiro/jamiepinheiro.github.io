@@ -5,7 +5,7 @@
 layout: home
 title: "A little about myself"
 image:
-  path: "https://jamiepinheiro.com/assets/header.jpg"
+  path: "https://jamiepinheiro.com/assets/header.jpeg"
   alt: "Sunrise in the Grand Canyon taken by Jamie Pinheiro"
 ---
 

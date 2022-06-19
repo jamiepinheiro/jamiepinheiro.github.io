@@ -7,7 +7,7 @@ title: "Photography"
 permalink: "/photography"
 description: "Some photos I've taken over the years"
 image:
-  path: "https://jamiepinheiro.com/assets/header2.jpg"
+  path: "https://jamiepinheiro.com/assets/header2.jpeg"
   alt: "Sunrise in the Grand Canyon taken by Jamie Pinheiro"
 ---
 
