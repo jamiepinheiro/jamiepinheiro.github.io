@@ -7,4 +7,12 @@ image:
   alt: "Snippet of Jamie Pinheiro's resume"
 ---
 
-<object data="/Resume.pdf" width="100%" height="1000px" type='application/pdf'></object>
+[Resume.pdf](Resume.pdf)
+
+<iframe 
+    id="pdf-js-viewer" src="/js/pdfjs/web/viewer.html?file=../../../Resume.pdf"
+    title="webviewer"
+    frameborder="0"
+    width="100%"
+    height="500">
+</iframe>
