@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: "A little about myself"
 image:
@@ -11,7 +8,7 @@ image:
 
 I'm a Computer Science '22 graduate from the [University of Waterloo](https://uwaterloo.ca).
 
-Previously, I've interned as a Software Engineer at [Jane Street](https://janestreet.com), [Instagram](https://instagram.com), [Google](https://google.com), [Microsoft](https://microsoft.com) and [Faire](https://faire.com), working on a range of problems from building powerful developer tools, to scaling large distributed systems. Feel free to take a look at my [resume](/Resume.pdf) for more on my experience.
+Previously, I've interned as a Software Engineer at [Jane Street](https://janestreet.com), [Instagram](https://instagram.com), [Google](https://google.com), [Microsoft](https://microsoft.com) and [Faire](https://faire.com), working on a range of problems from building powerful developer tools, to scaling large distributed systems. Feel free to take a look at my [resume](/resume) for more on my experience.
 
 In my free time, I love to [travel](/travel), explore new food, lift weights, play/watch basketball, [blog](https://medium.com/@jamiepinheiro/searching-for-cyclic-tv-reference-paradoxes-d125ff014279){:target="\_blank"} a bit, and dabble with [photography](/photography).
 

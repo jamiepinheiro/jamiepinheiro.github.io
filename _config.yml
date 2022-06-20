@@ -33,6 +33,7 @@ google_analytics: UA-152743685-1
 header_pages:
   - photography.md
   - travel.md
+  - resume.md
 
 # Build settings
 markdown: kramdown
