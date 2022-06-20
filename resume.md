@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Resume"
+permalink: "/resume"
 description: "My resume containing my past experience"
 image:
   path: "https://jamiepinheiro.com/assets/header4.png"
