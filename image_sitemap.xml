@@ -4,6 +4,9 @@
   <url>
     <loc>https://jamiepinheiro.com/travel</loc>
     <image:image>
+      <image:loc>https://jamiepinheiro.com/assets/travel/venice.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://jamiepinheiro.com/assets/travel/iceland.jpeg</image:loc>
     </image:image>
     <image:image>

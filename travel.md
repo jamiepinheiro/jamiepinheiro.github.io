@@ -11,6 +11,8 @@ image:
   alt: "Jamie Pinheiro with NYC in the background"
 ---
 
+[![Jamie Pinheiro on a bridge in Venice, Italy](/assets/travel/venice.jpeg)](https://www.instagram.com/p/CgbyWFVuynk/)
+
 [![Jamie Pinheiro sitting on rock in Iceland](/assets/travel/iceland.jpeg)](https://www.instagram.com/p/CcYQmM7rUYl/)
 
 [![Jamie Pinheiro in front of cityscape background in NYC](/assets/travel/nyc.jpeg)](https://www.instagram.com/p/CYCEemKrSSy/)
