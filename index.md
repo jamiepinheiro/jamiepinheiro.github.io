@@ -6,7 +6,7 @@ image:
   alt: "Sunrise in the Grand Canyon taken by Jamie Pinheiro"
 ---
 
-I'm a Computer Science '22 graduate from the [University of Waterloo](https://uwaterloo.ca). I currently am a Software Engineer at [Jane Street](https://janestreet.com).
+I'm a Computer Science '22 graduate from the [University of Waterloo](https://uwaterloo.ca). I currently work at [Jane Street](https://janestreet.com).
 
 Previously, I've interned as a Software Engineer at Jane Street, Instagram, Google, Microsoft and Faire, working on a range of problems from building powerful developer tools, to scaling large distributed systems. Feel free to take a look at my [resume](/resume) for more on my experience.
 
