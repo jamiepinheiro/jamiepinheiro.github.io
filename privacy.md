@@ -7,7 +7,7 @@ description: "Privacy Policy for jamiepinheiro.com"
 
 # Privacy Policy
 
-_Last updated: [Current Date]_
+Last updated: 2025-08-12
 
 ## Introduction
 
