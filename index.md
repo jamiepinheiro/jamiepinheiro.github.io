@@ -15,6 +15,7 @@ In my free time, I love to [travel](/travel), explore new food, lift weights, pl
 Some achievements/cool stuff I've worked on in no particular order:
 
 - Launched NYC Bikeshare Companion, a free app for lock screen station status and historical bike/dock availability and real-time notifications [[+]](https://www.reddit.com/r/Citibike/comments/1oauwoj/i_built_a_free_app_for_lockscreen_station_status/){:target="_blank"}
+- Built a tool to analyze character dialogue concentration in TV shows — e.g. showing that almost 50% of everything said in The Office comes from Michael, Dwight, and Jim [[+]](https://x.com/jamiepinheiro/status/2076813412483404079?s=61&t=Ff49lddJ8Nu_qvb6TxmVwQ){:target="_blank"}
 - Made a bot that flags interesting Wikipedia edits [[+]](https://x.com/jamiepinheiro/status/2049119170659315967?s=20){:target="_blank"}
 - Built Bot or Not, a social deception game where players try to identify LLM-backed bots in a group chat [[+]](https://x.com/jamiepinheiro/status/1903832573903568990?s=20){:target="_blank"}
 - Created a tool to find Cyclic TV Reference Paradoxes [[+]](https://www.reddit.com/r/dataisbeautiful/comments/v5fa5x/oc_i_built_a_tool_to_visualize_tv_references_and/){:target="_blank"}
