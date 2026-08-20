@@ -14,6 +14,7 @@ In my free time, I love to [travel](/travel), explore new food, lift weights, pl
 
 Some achievements/cool stuff I've worked on:
 
+- Built a dog-tracking camera that maps 2D images into a 3D room model to locate where she hangs out [[+]](https://x.com/jamiepinheiro/status/2089839409453502708){:target="_blank"}
 - Built a bot that spots breaking news from large moves in prediction markets [[+]](https://x.com/jamiepinheiro/status/2087583271169261695){:target="_blank"}
 - Built a tool to analyze character dialogue concentration in TV shows [[+]](https://x.com/jamiepinheiro/status/2076813412483404079?s=61&t=Ff49lddJ8Nu_qvb6TxmVwQ){:target="_blank"}
 - Launched NYC Bikeshare Companion, a free app for lock screen station status and historical bike/dock availability and real-time notifications [[+]](https://www.reddit.com/r/Citibike/comments/1oauwoj/i_built_a_free_app_for_lockscreen_station_status/){:target="_blank"}
