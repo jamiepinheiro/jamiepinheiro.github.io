@@ -14,18 +14,18 @@ In my free time, I love to [travel](/travel), explore new food, lift weights, pl
 
 Some achievements/cool stuff I've worked on:
 
-- Built a dog-tracking camera that maps 2D images into a 3D room model to locate where she hangs out [[+]](https://x.com/jamiepinheiro/status/2089839409453502708){:target="_blank"}
-- Built a bot that spots breaking news from large moves in prediction markets [[+]](https://x.com/jamiepinheiro/status/2087583271169261695){:target="_blank"}
-- Built a tool to analyze character dialogue concentration in TV shows [[+]](https://x.com/jamiepinheiro/status/2076813412483404079?s=61&t=Ff49lddJ8Nu_qvb6TxmVwQ){:target="_blank"}
-- Launched NYC Bikeshare Companion, a free app for lock screen station status and historical bike/dock availability and real-time notifications [[+]](https://www.reddit.com/r/Citibike/comments/1oauwoj/i_built_a_free_app_for_lockscreen_station_status/){:target="_blank"}
-- Made a bot that flags interesting Wikipedia edits [[+]](https://x.com/jamiepinheiro/status/2049119170659315967?s=20){:target="_blank"}
-- Built Bot or Not, a social deception game where players try to identify LLM-backed bots in a group chat [[+]](https://x.com/jamiepinheiro/status/1903832573903568990?s=20){:target="_blank"}
-- Created a tool to find Cyclic TV Reference Paradoxes [[+]](https://www.reddit.com/r/dataisbeautiful/comments/v5fa5x/oc_i_built_a_tool_to_visualize_tv_references_and/){:target="_blank"}
-- Built libmphoto - an open source library for muxing motion photos [[+]](https://github.com/googleinterns/libmphoto){:target="_blank"}
-- Added several optimizations to RAW image ingestion within the LibRaw project [[+]](https://www.libraw.org/news/libraw-0-20-2-Release?page=1){:target="_blank"}
-- Helped organize UWaterloo's first energy focused hackathon [[+]](https://uwen.ca/about.html){:target="_blank"}
-- Developed support for referencing Azure Boards work items from inside GitHub issues [[+]](https://mobile.twitter.com/alexcnichols/status/1118170956860551169){:target="_blank"}
-- Created a vscode extension to paste text directly from screenshots [[+]](https://marketplace.visualstudio.com/items?itemName=jamiepinheiro.paste-from-screenshot){:target="_blank"}
-- Wrote a script that syncs Wealthsimple account balances with Lunch Money [[+]](https://lunchmoney.dev/#auto-importers){:target="_blank"}
+- A dog-tracking camera that maps 2D images into a 3D room model to locate where she hangs out [[+]](https://x.com/jamiepinheiro/status/2089839409453502708){:target="_blank"}
+- A bot that spots breaking news from large moves in prediction markets [[+]](https://x.com/jamiepinheiro/status/2087583271169261695){:target="_blank"}
+- A tool to analyze character dialogue concentration in TV shows [[+]](https://x.com/jamiepinheiro/status/2076813412483404079?s=61&t=Ff49lddJ8Nu_qvb6TxmVwQ){:target="_blank"}
+- NYC Bikeshare Companion, a free app for lock screen station status and historical bike/dock availability and real-time notifications [[+]](https://www.reddit.com/r/Citibike/comments/1oauwoj/i_built_a_free_app_for_lockscreen_station_status/){:target="_blank"}
+- A bot that flags interesting Wikipedia edits [[+]](https://x.com/jamiepinheiro/status/2049119170659315967?s=20){:target="_blank"}
+- Bot or Not, a social deception game where players try to identify LLM-backed bots in a group chat [[+]](https://x.com/jamiepinheiro/status/1903832573903568990?s=20){:target="_blank"}
+- A tool to find Cyclic TV Reference Paradoxes [[+]](https://www.reddit.com/r/dataisbeautiful/comments/v5fa5x/oc_i_built_a_tool_to_visualize_tv_references_and/){:target="_blank"}
+- libmphoto, an open source library for muxing motion photos [[+]](https://github.com/googleinterns/libmphoto){:target="_blank"}
+- Several optimizations to RAW image ingestion within the LibRaw project [[+]](https://www.libraw.org/news/libraw-0-20-2-Release?page=1){:target="_blank"}
+- UWaterloo's first energy focused hackathon [[+]](https://uwen.ca/about.html){:target="_blank"}
+- Support for referencing Azure Boards work items from inside GitHub issues [[+]](https://mobile.twitter.com/alexcnichols/status/1118170956860551169){:target="_blank"}
+- A vscode extension to paste text directly from screenshots [[+]](https://marketplace.visualstudio.com/items?itemName=jamiepinheiro.paste-from-screenshot){:target="_blank"}
+- A script that syncs Wealthsimple account balances with Lunch Money [[+]](https://lunchmoney.dev/#auto-importers){:target="_blank"}
 - Dean's Honours List [[+]](https://uwaterloo.ca/math/current-undergraduates/funding-and-awards/deans-honours-list/fall-2017-term){:target="_blank"}
 - Woburn Challenge 3rd Place [[+]](https://static1.squarespace.com/static/5602365be4b02ead4f1620e0/t/562c076ce4b01024eb5ffc90/1445726060992/wc-2015-16-round1-results.pdf){:target="_blank"}
