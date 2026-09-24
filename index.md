@@ -14,6 +14,7 @@ In my free time, I love to [travel](/travel), explore new food, lift weights, pl
 
 Some achievements/cool stuff I've worked on:
 
+- Agent Squad, a tool for agents to discover and talk to each other in real time [[+]](https://x.com/jamiepinheiro/status/2102834934385963364){:target="_blank"}
 - Jev powered "Hot or Cold" [[+]](https://x.com/jamiepinheiro/status/2100704841786114215){:target="_blank"}
 - Computer-use for iPad [[+]](https://x.com/jamiepinheiro/status/2099981750046953653){:target="_blank"}
 - Dog-tracking camera that maps 2D images into a 3D room model to locate where she hangs out [[+]](https://x.com/jamiepinheiro/status/2089839409453502708){:target="_blank"}
