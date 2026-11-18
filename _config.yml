@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Jamie Pinheiro"
-description: "I’m a Computer Science student at the University of Waterloo..."
+description: "Software engineer. Projects, writing, photography, and travel by Jamie Pinheiro."
+author: Jamie Pinheiro
+lang: en
 twitter:
   username: jamiepinheiro
   card: summary
 email: me@jamiepinheiro.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jamiepinheiro.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jamiepinheiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jamiepinheiro
 twitter_username: jamiepinheiro
 linkedin_username: jamiepinheiro
@@ -31,6 +33,7 @@ vsco_username: jamiepinheiro
 google_analytics: UA-152743685-1
 
 header_pages:
+  - blog.md
   - photography.md
   - travel.md
   - resume.md
@@ -41,6 +44,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -52,3 +56,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Stable URLs for posts and their RSS entries.
+permalink: /blog/:title/

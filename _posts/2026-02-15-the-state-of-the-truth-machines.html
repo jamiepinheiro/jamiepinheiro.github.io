@@ -1,0 +1,67 @@
+---
+layout: blog-post
+title: "The State of the Truth Machines"
+date: 2026-02-15 21:45:13 +0000
+permalink: /blog/the-state-of-the-truth-machines/
+author: Jamie Pinheiro
+description: "How community notes, paid accounts, and prediction markets might help us discover and preserve facts in a world of LLM-generated content."
+source_name: X
+source_url: https://x.com/jamiepinheiro/status/2023151638240952604
+image:
+  path: /assets/blog/truth-machines-1.jpg
+  alt: "Cover illustration for The State of the Truth Machines"
+---
+
+<figure><img src="/assets/blog/truth-machines-1.jpg" alt="Cover illustration for The State of the Truth Machines"></figure>
+
+<p>Recently, I’ve been thinking a lot about how to model humanity’s ability to discover, preserve and propagate objective facts. I’ve come to enjoy the metaphor of <em>Truth Machines</em> - abstract systems and collections of human interactions, geared to do such a task.</p>
+
+<p>In humanity’s recent past, I believe one of the strongest versions of these has been the open, “web2” internet - a place where anyone can easily and freely voice an opinion, share content, and participate in the arbitration process of this global, decentralized Truth Machine. It isn’t perfect; there are still niches that succumb to “fake news”, but all-in-all, I think it’s pretty effective at distributing the truth (I can quickly learn the outcomes of elections, economies, sports games, all happening thousands of miles away from me).</p>
+
+<p>I believe that a core reason for why this worked was that voicing an opinion required both time and effort. With the advent of LLMs, both of these requirements are breaking - it’s faster and cheaper than ever to put media into the internet. What does this mean for our global, web2-based Truth Machine? How difficult would it be able to ‘pollute’ some truth? [1] I think there’s a very real chance it falls apart in the next N years...</p>
+
+<p>I’ve been digging into some of the systems that could potentially form/inspire next generation of Truth Machines:</p>
+
+<h2>Community Notes</h2>
+
+<figure><img loading="lazy" src="/assets/blog/truth-machines-2.png" alt="An example of a Community Note on X"></figure>
+
+<p>X allows users to propose and vote on additional context on tweets. Behind the scenes, there’s a few things happening. To my knowledge:</p>
+
+<ol>
+
+<li>Accounts can opt into the Community notes program</li>
+
+<li>Initially, they can just vote on other notes that have been proposed (even ones not yet being shown). Voting “correctly” (ie. with the majority), increases their “Rating Impact” score</li>
+
+<li>Once their Rating Impact is high enough, they can write the notes themselves, and accordingly gain “Writing Impact” based upon how others vote. After sufficient votes, the notes get shown to all users</li>
+
+<li>I can assume users with a low/negative impact will just get bared from program eventually</li>
+
+</ol>
+
+<p>This system is interesting. I like that it meets fact-checkers close to the facts that are being checked. I think I’d have the strongest ability to fact check things that are within my domain of interests, which hopefully my X algorithm surfaces to me. It also makes use of the entire userbase to perform fact checking (in practice I imagine this is a very tiny portion of its users). Establishing reputation scores also maybe encourages voting correctly? It’s also ~free for X - users aren’t rewarded in any way.</p>
+
+<p>I think the biggest limitation is the appeal to users, I imagine relying on benevolent users doesn’t seem long-term scalable. I don’t think I’d enjoy combing through AI-slop, yet alone, doing it for free...</p>
+
+<h2>Pay-to-play</h2>
+
+<figure><img loading="lazy" src="/assets/blog/truth-machines-3.png" alt="X Premium account verification and pricing"></figure>
+
+<p>The other thing X is doing to preserve its Truth Machine, is paid (verified) accounts. Users can pay $8/month for the blue checkmark. By upweighting verified accounts in the algorithm, it effectively made it pretty expensive to share ideas (recall, in our current machine, it’s ~free). This feels required to avoid millions of bots from flooding the threads and polluting the truth.</p>
+
+<p>There’s a hard balance to strike between not pricing out users, and making it too expensive for bot armies to exist. I’d claim there isn’t a great option here, $8/m feels expensive enough to price out a large fraction of users, as well as not expensive enough to disway bot armies from swaying the truth in high stakes topics (eg. elections, where already millions of dollars are poured into campaigns).</p>
+
+<h2>Plutocratic Voting</h2>
+
+<figure><img loading="lazy" src="/assets/blog/truth-machines-4.jpg" alt="Disputed claims in the UMA voting interface"></figure>
+
+<p>Outside of X, prediction markets also require robust Truth Machines to resolve markets. Polymarket uses UMA, a crypto-native platform, where users can vote to establish validity of claims. In the same shape as many Plutocratic Defi protocols, votes are weighted by the number of tokens staked. To incentivize fact-checking, claims have bounties attached to them (they&#x27;re quite high, usually $750 for Polymarket).</p>
+
+<p>I generally like the idea of tying strong financial incentives into the Truth Machines, it seems to solve the “get people to vote” issue that I think Community notes struggle with. However, UMA currently encourages all “staked” users to vote in <em>every</em> disputed claim, which doesn’t feel long term sustainable. Each voting period already has 20-30 disputes to vote in. I’m sure they’ll eventually have to solve this problem, as with every other prediction market platform that wants to aggressively add more markets. Separately, this doesn’t attempt to solve fairness in any way, the truth is owned by the token holders.</p>
+
+<h2>Final Thoughts</h2>
+
+<p>By some crude (and possibly incorrect) model of the world, we’re at the cusp of losing the ability to discern facts from fiction in all online content; our web2 Truth Machine is failing. As such, I think one of the largest, humanity-scale problems we’ll face in the next couple of years is coming up with better Truth Machines, robust to the world of LLM generated content.</p>
+
+<p>[1] What does JD Vance even look like? I forget</p>
